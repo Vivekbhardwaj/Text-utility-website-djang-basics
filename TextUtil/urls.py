@@ -7,3 +7,4 @@ urlpatterns = [
     path('',view.index,name='index'),
     path('analysis',view.analysis,name='analysis'),
 ]
+ 
